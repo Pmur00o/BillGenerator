@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/AndroidDevelopment/expense-tracker1/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="listcontextmenu">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues" translatable="false">
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2560x1920</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1280x960</item>
+        <item>1024x768</item>
+        <item>640x480</item>
+        <item>320x240</item>
+    </string-array>
+    <string-array name="spinner_period">
+        <item>1 Month</item>
+        <item>1 Quarter</item>
+        <item>Half Year</item>
+        <item>1 Year</item>
+        <item>Choose Period</item>
+    </string-array>
+    <string-array name="spinner_type">
+        <item>PDF</item>
+        <item>CSV</item>
+    </string-array>
+    <!-- From: file:/E:/AndroidDevelopment/expense-tracker1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bg_row_selected">#ffdcff95</color>
+    <color name="bg_save_reminder">#fffaeeee</color>
+    <color name="bg_unfinished_entry">#fffaf8d3</color>
+    <color name="black">#ff000000</color>
+    <color name="grey">#ff404040</color>
+    <color name="grey_light">#ffcccccc</color>
+    <color name="white">#ffffffff</color>
+    <!-- From: file:/E:/AndroidDevelopment/expense-tracker1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="hint_y_offset">64dip</dimen>
+    <!-- From: file:/E:/AndroidDevelopment/expense-tracker1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_expenses_from_listing">Add Expenses From Listing</string>
+    <string name="amount">amount</string>
+    <string name="app_name">Expense Tracker</string>
+    <string name="audio_recording_time">Audio Recording Time</string>
+    <string name="backpress_edit_entry_text">Discard the changes?</string>
+    <string name="backpress_new_entry_text">Discard this entry?</string>
+    <string name="camera">2</string>
+    <string name="camera_error_title">Camera error</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_connect_camera">Cannot connect to camera.</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_discard">Confirm Discard</string>
+    <string name="creating_new_entry_using_favorite">Creating New Entry Using Favorite</string>
+    <string name="date_changed">Date Changed</string>
+    <string name="date_picker_dialog_error_message">Future dates are not allowed</string>
+    <string name="date_time_set">Set</string>
+    <string name="delete_dialog_checkbox_status">Delete Dialog CheckBox Status</string>
+    <string name="delete_dialog_shown">Delete Dialog Shown</string>
+    <string name="delete_dialog_text">Delete this entry?</string>
+    <string name="delete_dialog_title">Show delete confirmation dialog</string>
+    <string name="deleting_using_context_menu">Deleting Using Context Menu</string>
+    <string name="description">description</string>
+    <string name="details_ok">OK</string>
+    <string name="dialog_opened_to">Dialog Opened To</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="edit_fav">Edit Favorite</string>
+    <string name="edit_favorite">Edit Favorite</string>
+    <string name="editing_using_context_menu">Editing Using Context Menu</string>
+    <string name="entry_discarded">Discarded</string>
+    <string name="expense_listing_activity">Expense Listing Activity</string>
+    <string name="fav_from_new">Favorite From New</string>
+    <string name="fav_from_show">Favorite From Show</string>
+    <string name="favorite_entry">4</string>
+    <string name="favorite_selection_text">Choose an entry to add to expenses</string>
+    <string name="finished_cameraentry">Camera Entry</string>
+    <string name="finished_textentry">Text Entry</string>
+    <string name="finished_voiceentry">Voice Entry</string>
+    <string name="flurry_key">TWN1Q86PGWA7WWEPDWXA</string>
+    <string name="generate_report">Generate Report</string>
+    <string name="generate_report_activity">Generate Report Activity</string>
+    <string name="graph_changed_using_textview">Navigating Graph Using Header</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="manage_favorites">Manage Favorites</string>
+    <string name="new_entry">New Entry</string>
+    <string name="no_expenses_text">No expenses available to show, Please add expenses</string>
+    <string name="no_storage">Please insert an SD card before using the camera.</string>
+    <string name="not_enough_space">Your SD card is full.</string>
+    <string name="ok">OK</string>
+    <string name="page_opened_to_edit_favorite">Page Opened to edit Favorite</string>
+    <string name="pref_key_delete_dialog">prefKeyDeleteDialog</string>
+    <string name="pref_key_flash_res_id">prefKeyFlashResId</string>
+    <string name="pref_key_run_first_time">prefKeyRunFirstTime</string>
+    <string name="pref_key_set_up_sync">prefSetUpSync</string>
+    <string name="pref_key_sync_email">prefSyncEmail</string>
+    <string name="pref_key_sync_name">prefSyncName</string>
+    <string name="pref_key_sync_password">prefKeySyncPassword</string>
+    <string name="pref_key_sync_timestamp">prefKeySyncTimeStamp</string>
+    <string name="pref_key_sync_user_id">prefKeyUserId</string>
+    <string name="pref_key_token">prefKeyToken</string>
+    <string name="preference_delete_dialog">Preference Delete Dialog</string>
+    <string name="preparing_sd">Preparing SD card\u2026</string>
+    <string name="rate_app">Rate App from Menu</string>
+    <string name="save_reminder">Save Reminder</string>
+    <string name="search">Search</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="sublist_all">8</string>
+    <string name="sublist_thismonth">6</string>
+    <string name="sublist_thisweek">5</string>
+    <string name="sublist_thisyear">7</string>
+    <string name="sync_pref_title">Set Up Sync</string>
+    <string name="syncbit_conflict">5</string>
+    <string name="syncbit_created">2</string>
+    <string name="syncbit_deleted">4</string>
+    <string name="syncbit_not_synced">6</string>
+    <string name="syncbit_synced">1</string>
+    <string name="syncbit_updated">3</string>
+    <string name="tab_all">All</string>
+    <string name="tab_thismonth">This Month</string>
+    <string name="tab_thisweek">This Week</string>
+    <string name="tab_thisyear">This Year</string>
+    <string name="text">1</string>
+    <string name="unfinish_fav_text">Unfinished entry, Discard this entry?</string>
+    <string name="unfinished_cameraentry">Unfinished Camera Entry</string>
+    <string name="unfinished_textentry">Unfinished Text Entry</string>
+    <string name="unfinished_voiceentry">Unfinished Voice Entry</string>
+    <string name="unknown">0</string>
+    <string name="unknown_entry">Unknown Entry</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="version">Version 1.3</string>
+    <string name="voice">3</string>
+    <!-- From: file:/E:/AndroidDevelopment/expense-tracker1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Animation_OnScreenHint">
+        <item name="android:windowEnterAnimation">@anim/on_screen_hint_enter</item>
+        <item name="android:windowExitAnimation">@anim/on_screen_hint_exit</item>
+    </style>
+    <style name="OnScreenHintTextAppearance">
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textColorHighlight">#FFFF9200</item>
+        <item name="android:textColorHint">#808080</item>
+        <item name="android:textColorLink">#5C5CFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="OnScreenHintTextAppearance.Small">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+    </style>
+    <style name="PreferencesTheme">
+    	<item name="android:textColor">@color/black</item>
+    	<item name="android:textSize">16sp</item>
+	</style>
+    <style name="Theme_Dialog_Translucent" parent="android:Theme.Dialog">
+    	<item name="android:windowBackground">@null</item>
+	</style>
+</resources>
